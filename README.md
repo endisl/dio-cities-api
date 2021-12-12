@@ -1,5 +1,7 @@
 # Desenvolvimento de uma API Rest de consulta e cálculo de distância entre cidades.
 
+![Screenshot](screenshots/dist-entre-prefeituras-ibate-saocarlos.png)
+
 ## Habilidades aprendidas e desenvolvidas:
 
 * O uso do Docker para trabalhar com PostgreSQL sem a necessidade de uma instalação física deste RDBMS
