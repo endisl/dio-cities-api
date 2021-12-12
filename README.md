@@ -1,4 +1,15 @@
-# Cities API
+# Desenvolvimento de uma API Rest de consulta e cálculo de distância entre cidades.
+
+## Habilidades aprendidas e desenvolvidas:
+
+* O uso do Docker para trabalhar com PostgreSQL sem a necessidade de uma instalação física deste RDBMS
+* Desafio: quando o container fica fora do ar, não é necessário removê-lo e criar um novo, e sim recorrer ao comando docker start "container-id" para reativá-lo
+* github1s.com/reositorio ou github.dev/repositorio para navegar no repositório dentro de um ambiente do VS Code.
+* O uso do Json Formatter, uma extensão do Chrome, que permite uma apresentação amigável do JSON retornado durante uma requisição GET, por exemplo
+* A exploração de funcionalidades avançadas do PostgreSQL como a criação de um operador <@> para o cálculo de distancia entre duas cidades
+* O mapeamento de tipos complexos dos atributos das tabelas como json e point
+* A criação de queries customizadas não contempladas pela interface JpaRepository
+* O deploy da aplicação via website e CLI do Heroku
 
 ## Requirements
 
